@@ -11,8 +11,8 @@ Astrazeneca | 43
 ## Quoten
 **Total Verimpfte Dosen:** | 3509650
 -------- | :--------:
-**Erst-Impfquote** | 2.89%
-**Voll-Impfquote** | 1.33%
+**Erst-Impfquote** | 2.89 %
+**Voll-Impfquote** | 1.33 %
 **Imfungen Durchschnitt** | 77992.44 pro Tag
 ## Graphen
 <img src="Impfungen-Corona-01.jpg" alt="Corona-1" title="optionaler Titel" />
