@@ -3,17 +3,17 @@
 ## Impfstoffe Übersicht
 **Impfstoffhersteller** | **verimpfte Dosen**
 -------- | :--------:
-Biontech | 5240237
+Biontech | 5255195
 Moderna | 161186
 Astrazeneca | 314568
 
 
 ## Quoten
-**Total Verimpfte Dosen:** | 5715991
+**Total Verimpfte Dosen:** | 5730949
 -------- | :--------:
 **Erst-Impfquote** | 4.52 %
-**Voll-Impfquote** | 2.35 %
-**Imfungen Durchschnitt** | 93704.77 pro Tag
+**Voll-Impfquote** | 2.37 %
+**Imfungen Durchschnitt** | 93949.98 pro Tag
 ## Graphen
 <img src="Impfungen-Corona-01.jpg" alt="Corona-1" title="optionaler Titel" />
 <img src="Impfungen-Corona-02.jpg" alt="Corona-2" title="optionaler Titel" />
