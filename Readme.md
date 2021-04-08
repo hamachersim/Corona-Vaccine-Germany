@@ -11,9 +11,9 @@ Astrazeneca | 3367128
 ## Quoten
 **Total Verimpfte Dosen:** | |16253541&nbsp;
 -------- | :--------:| :--------:
-**Erst-Impfquote** | 13.84 %| 11515936 Personen
-**Voll-Impfquote** | 5.69 %| 4737605 Personen
-**Imfungen Durchschnitt** | |159348.44 pro Tag 
+**Erst-Impfquote** | **13.84** %| **11515936** Personen
+**Voll-Impfquote** | **5.69** %| **4737605** Personen
+**Imfungen Durchschnitt** | |**159348.44** pro Tag 
 ## Bundesländer
 **Bundesland** | **Prozent von gelieferten Imfdosen verimpft**
 -------- | :--------:
