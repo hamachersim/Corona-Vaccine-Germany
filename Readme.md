@@ -37,8 +37,10 @@ DE-TH | 88.60 %
 <img src="Impfungen-Corona-01.jpg" alt="Impf Übersicht" title="Impf Übersicht" />
 <img src="Impfungen-Corona-02.jpg" alt="Impfquote" title="optionaler Titel" />
 <img src="Impfungen-Corona-03.jpg" alt="Indikation" title="Indikation" />
+
 ### Lieferungen je Bundesland:
 <img src="Impfungen-Corona-04.jpg" alt="Impfungen in den Bundesländern" title="Impfungen in den Bundesländern" />
+
 ### Impfungen und Lieferung je Bundesland:
 <img src="Impfungen-Corona-05.jpg" alt="Impfungen in den Bundesländern" title="Impfungen in den Bundesländern" />
 
