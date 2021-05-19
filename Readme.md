@@ -3,35 +3,35 @@
 ## Impfstoffe Übersicht
 **Impfstoffhersteller** | **verimpfte Dosen**
 -------- | :--------:
-Biontech | 30500693
-Moderna | 2983620
-Astrazeneca | 7956357
+Biontech | 30511166
+Moderna | 2986323
+Astrazeneca | 7957797
 
 
 ## Quoten
-**Total Verimpfte Dosen:** | |41440670&nbsp;
+**Total Verimpfte Dosen:** | |41455286&nbsp;
 -------- | :--------:| :--------:
-**Erst-Impfquote** | **38.07** %| **31671431** Personen
-**Voll-Impfquote** | **11.89** %| **9891955** Personen
-**Imfungen Durchschnitt** | |**290223.97** pro Tag 
+**Erst-Impfquote** | **38.08** %| **31678786** Personen
+**Voll-Impfquote** | **11.90** %| **9901626** Personen
+**Imfungen Durchschnitt** | |**290334.61** pro Tag 
 ## Bundesländer
 **Bundesland** | **Prozent von gelieferten Imfdosen verimpft**
 -------- | :--------:
 DE-BW | 89.32 %
 DE-BY | 90.08 %
 DE-BE | 87.97 %
-DE-BB | 83.93 %
+DE-BB | 83.94 %
 DE-HB | 95.41 %
 DE-HH | 87.38 %
 DE-HE | 88.55 %
 DE-MV | 92.94 %
-DE-NI | 89.64 %
+DE-NI | 89.66 %
 DE-NW | 93.22 %
 DE-RP | 90.37 %
 DE-SL | 87.33 %
 DE-SN | 85.02 %
 DE-ST | 87.16 %
-DE-SH | 89.71 %
+DE-SH | 90.64 %
 DE-TH | 88.84 %
 ## Graphen
 <img src="Impfungen-Corona-01.jpg" alt="Impf Übersicht" title="Impf Übersicht" />
