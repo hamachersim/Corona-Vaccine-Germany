@@ -1,38 +1,38 @@
-# Corona vaccine Germany - Stand 2021-07-25
+# Corona vaccine Germany - Stand 2021-07-26
 ## Dashboard by [Simon Hamacher](https://www.shamacher.eu)
 ## Impfstoffe Übersicht
 **Impfstoffhersteller** | **verimpfte Dosen**
 -------- | :--------:
-Biontech | 66447520
-Moderna | 8221816
-Astrazeneca | 12387724
+Biontech | 66732711
+Moderna | 8262012
+Astrazeneca | 12400491
 
 
 ## Quoten
-**Total Verimpfte Dosen:** | |87057060&nbsp;
+**Total Verimpfte Dosen:** | |87395214&nbsp;
 -------- | :--------:| :--------:
-**Erst-Impfquote** | **60.88** %| **50643772** Personen
-**Voll-Impfquote** | **49.37** %| **41073682** Personen
-**Imfungen Durchschnitt** | |**423636.29** pro Tag 
+**Erst-Impfquote** | **60.99** %| **50736111** Personen
+**Voll-Impfquote** | **49.70** %| **41342865** Personen
+**Imfungen Durchschnitt** | |**423288.18** pro Tag 
 ## Bundesländer
 **Bundesland** | **Prozent von gelieferten Imfdosen verimpft**
 -------- | :--------:
-DE-BW | 89.79 %
-DE-BY | 83.97 %
-DE-BE | 87.04 %
-DE-BB | 86.08 %
-DE-HB | 101.83 %
-DE-HH | 87.68 %
-DE-HE | 88.36 %
-DE-MV | 86.12 %
-DE-NI | 89.96 %
-DE-NW | 89.43 %
-DE-RP | 92.79 %
-DE-SL | 91.68 %
-DE-SN | 81.20 %
-DE-ST | 86.71 %
-DE-SH | 93.29 %
-DE-TH | 87.83 %
+DE-BW | 90.19 %
+DE-BY | 84.32 %
+DE-BE | 87.49 %
+DE-BB | 86.40 %
+DE-HB | 102.38 %
+DE-HH | 88.05 %
+DE-HE | 88.67 %
+DE-MV | 86.44 %
+DE-NI | 90.35 %
+DE-NW | 89.68 %
+DE-RP | 93.24 %
+DE-SL | 92.08 %
+DE-SN | 81.46 %
+DE-ST | 87.05 %
+DE-SH | 93.73 %
+DE-TH | 88.15 %
 ## Graphen
 <img src="Impfungen-Corona-01.jpg" alt="Impf Übersicht" title="Impf Übersicht" />
 <img src="Impfungen-Corona-02.jpg" alt="Impfquote" title="Impf Übersicht" />
