@@ -17,22 +17,22 @@ Astrazeneca | 12491937
 ## Bundesländer
 **Bundesland** | **Prozent von gelieferten Imfdosen verimpft**
 -------- | :--------:
-DE-BW | 93.23 %
-DE-BY | 87.24 %
-DE-BE | 89.89 %
-DE-BB | 88.52 %
-DE-HB | 106.14 %
-DE-HH | 91.18 %
-DE-HE | 91.10 %
-DE-MV | 88.50 %
-DE-NI | 93.30 %
-DE-NW | 91.92 %
-DE-RP | 96.02 %
-DE-SL | 94.69 %
-DE-SN | 83.25 %
-DE-ST | 89.25 %
-DE-SH | 96.89 %
-DE-TH | 90.37 %
+DE-BW | 90.00 %
+DE-BY | 84.85 %
+DE-BE | 85.96 %
+DE-BB | 86.20 %
+DE-HB | 101.44 %
+DE-HH | 87.77 %
+DE-HE | 86.38 %
+DE-MV | 86.31 %
+DE-NI | 88.78 %
+DE-NW | 89.78 %
+DE-RP | 92.54 %
+DE-SL | 91.16 %
+DE-SN | 84.29 %
+DE-ST | 85.86 %
+DE-SH | 93.03 %
+DE-TH | 88.03 %
 ## Graphen
 <img src="Impfungen-Corona-01.jpg" alt="Impf Übersicht" title="Impf Übersicht" />
 <img src="Impfungen-Corona-02.jpg" alt="Impfquote" title="Impf Übersicht" />
