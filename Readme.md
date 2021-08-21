@@ -1,19 +1,19 @@
-# Corona vaccine Germany - Stand 2021-08-19
+# Corona vaccine Germany - Stand 2021-08-20
 ## Dashboard by [Simon Hamacher](https://www.shamacher.eu)
 ## Impfstoffe Übersicht
 **Impfstoffhersteller** | **verimpfte Dosen**
 -------- | :--------:
-Biontech | 74617472
-Moderna | 9142427
-Astrazeneca | 12606373
+Biontech | 74873277
+Moderna | 9163215
+Astrazeneca | 12611507
 
 
 ## Quoten
-**Total Verimpfte Dosen:** | |96366272&nbsp;
+**Total Verimpfte Dosen:** | |96647999&nbsp;
 -------- | :--------:| :--------:
-**Erst-Impfquote** | **63.79** %| **53066487** Personen
-**Voll-Impfquote** | **58.48** %| **48652173** Personen
-**Imfungen Durchschnitt** | |**419671.47** pro Tag 
+**Erst-Impfquote** | **63.92** %| **53173018** Personen
+**Voll-Impfquote** | **58.73** %| **48860871** Personen
+**Imfungen Durchschnitt** | |**419160.10** pro Tag 
 ## Bundesländer
 **Bundesland** | **Prozent von gelieferten Imfdosen verimpft**
 -------- | :--------:
